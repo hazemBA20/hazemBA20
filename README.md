@@ -7,8 +7,8 @@
 
 ## 💻 Tech Stack
 
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🧰 Backend: JavaEE (with Maven + Tomcat), MySQL  
+- 🌐 Frontend: HTML, CSS, JavaScript ,ReactJs 
+- 🧰 Backend: SpringBoot with Maven , MySQL , Postgresql  
 - ⚙️ Tools: Git, GitHub, Jupyter Notebook, SSMS  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 🌱 Learning Now
 
-- React.js  
+- Next.js
 - Full-stack web + AI integration  
 - Advanced JavaScript and deployment skills  
 
