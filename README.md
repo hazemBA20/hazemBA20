@@ -9,7 +9,7 @@
 
 - 🌐 Frontend: HTML, CSS, JavaScript ,ReactJs 
 - 🧰 Backend: SpringBoot with Maven , MySQL , Postgresql  
-- ⚙️ Tools: Git, GitHub, Jupyter Notebook, SSMS  
+- ⚙️ Tools: Git, GitHub, Jupyter Notebook, 
 
 ---
 
@@ -31,5 +31,5 @@
 
 ## 📫 Connect with Me
 
-- [Facebook](https://facebook.com/hazem.benalaya.737)  
+  
 - [LinkedIn](https://www.linkedin.com/in/hazem-b-5ba743288)  
