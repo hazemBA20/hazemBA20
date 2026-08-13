@@ -122,7 +122,11 @@ Spring Boot · FastAPI · REST APIs · React · Vite
 
 </div>
 
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/hazemBA20/hazemBA20/gh-pages/github-contribution-grid-snake.svg" />
+
+</div>
 ---
 
 ## 📫 Connect with Me
