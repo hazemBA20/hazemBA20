@@ -2,7 +2,7 @@
 
 # Hazem Ben Alaya
 
-### Software Engineering Student · AI & Machine Learning
+###  Engineering Student · AI & Machine Learning
 
 *Building practical software and intelligent systems.*
 
