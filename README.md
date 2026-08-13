@@ -11,29 +11,6 @@
 
 </div>
 
----
-
-## About
-
-I'm an engineering student at **INSAT** with a focus on **software engineering, artificial intelligence, and machine learning**.
-
-My recent work has covered **computer vision, multimodal learning, RAG systems, LLM applications, and AI-assisted software testing**.
-
-I enjoy building systems where machine learning is combined with solid software engineering and measurable evaluation.
-
----
-
-## Current Focus
-
-```text
-AI-assisted software testing
-LLM applications & agentic workflows
-Computer vision & multimodal learning
-Backend development & system design
-```
-
----
-
 <div align="center">
 
 ### Thanks for stopping by.
@@ -57,7 +34,3 @@ Backend development & system design
 </div>
 ---
 
-## 📫 Connect with Me
-
-  
-- [LinkedIn](https://www.linkedin.com/in/hazem-b-5ba743288)  
