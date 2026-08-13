@@ -120,11 +120,19 @@ Spring Boot · FastAPI · REST APIs · React · Vite
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hazembenaleya\&style=flat\&color=grey)
 
-</div>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hazemBA20/hazemBA20/gh-pages/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/hazemBA20/hazemBA20/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/hazemBA20/hazemBA20/output/github-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/hazemBA20/hazemBA20/output/github-snake.svg"
+       alt="GitHub contribution snake">
+
+</picture>
 
 </div>
 ---
